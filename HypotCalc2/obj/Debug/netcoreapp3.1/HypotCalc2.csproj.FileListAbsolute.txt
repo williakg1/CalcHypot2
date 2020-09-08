@@ -1,0 +1,13 @@
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\bin\Debug\netcoreapp3.1\HypotCalc2.exe
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\bin\Debug\netcoreapp3.1\HypotCalc2.deps.json
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\bin\Debug\netcoreapp3.1\HypotCalc2.runtimeconfig.json
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\bin\Debug\netcoreapp3.1\HypotCalc2.runtimeconfig.dev.json
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\bin\Debug\netcoreapp3.1\HypotCalc2.dll
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\bin\Debug\netcoreapp3.1\HypotCalc2.pdb
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\obj\Debug\netcoreapp3.1\HypotCalc2.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\obj\Debug\netcoreapp3.1\HypotCalc2.AssemblyInfoInputs.cache
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\obj\Debug\netcoreapp3.1\HypotCalc2.AssemblyInfo.cs
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\obj\Debug\netcoreapp3.1\HypotCalc2.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\obj\Debug\netcoreapp3.1\HypotCalc2.dll
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\obj\Debug\netcoreapp3.1\HypotCalc2.pdb
+C:\Users\Cameron\source\repos\HypotCalc2\HypotCalc2\obj\Debug\netcoreapp3.1\HypotCalc2.genruntimeconfig.cache
